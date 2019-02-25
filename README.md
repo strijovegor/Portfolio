@@ -1,5 +1,3 @@
-
-
 Первое задание:
 https://github.com/strijovegor/bearmanchik
 
