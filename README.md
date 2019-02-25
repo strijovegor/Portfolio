@@ -1,4 +1,5 @@
-# strijovegor.gihub.io
+
+
 Первое задание:
 https://github.com/strijovegor/bearmanchik
 
